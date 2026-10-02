@@ -9,13 +9,20 @@ Ceci est une description
 - Encore moi
 - toujours moi
 
+- Moi aussi
+
 ### Technologie utilisée (language, algorithme...) :
 - C++
 - Java (help)
 
+- C#
+- .Net
+
 ### Résultats :
 - Un mal de crâne
 
+- La même hein
+- Et deux nuit blanches
 
 ## Post-Mortem : 
 
